@@ -7,10 +7,8 @@ public class Calculator {
     }
 
     public int substract(int a, int b){
-        //return a - b;
-        //estyo es una locura
-        return 0;
-    }
+        return a - b;
+        //a ver is esta vez si    }
 
     public int multiply(int a, int b){
         return a * b;
