@@ -6,12 +6,6 @@ public class Calculator {
         return a + b;
     }
 
-    public int substract(int a, int b){
-        return a - b;
-        //a ver is esta vez si    
-        //error de compilación 
-        }
-
     public int multiply(int a, int b){
         return a * b;
     }
